@@ -542,15 +542,18 @@ background-size: cover;
     }
   
     header figure {
-      width: 30%;
+      width: 40%;
     }
 
     header nav {
-      width: 20%;
+      width: 40%;
+      justify-content: space-around;
+      
     }
   
     header nav ul {
-      justify-content: space-between;
+      justify-content: space-around;
+     
     }
   
     .header-divider {
